@@ -19,7 +19,7 @@ jobs:
 
       # الروابط
       TAILSCALE_URL: "https://pkgs.tailscale.com/stable/tailscale-setup-latest-amd64.msi"
-      NST_URL: "https://tinyurl.com/nstkkdkac44"
+      NST_URL: "https://assets.nstbrowser.io/prod/agent/x64/Nstbrowser%20Setup%201.17.12.exe"
       RUST_URL: "https://tinyurl.com/ruskaaaaa11"
       ZIP_URL: "https://tinyurl.com/filesdownlaodkkda45"
 
